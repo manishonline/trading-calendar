@@ -1,0 +1,7 @@
+pandas>=0.18
+toolz
+six
+pytz
+pandas_market_calendars
+holidays=0.2-dev
+bdateutil
